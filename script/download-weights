@@ -4,7 +4,7 @@ import os
 from diffusers import DiffusionPipeline
 
 
-model_id = "dallinmackay/Van-Gogh-diffusion"
+model_id = "Envvi/Inkpunk-Diffusion"
 MODEL_CACHE = "diffusers-cache"
 os.makedirs(MODEL_CACHE, exist_ok=True)
 
