@@ -16,7 +16,7 @@ from diffusers import (
 from PIL import Image
 from cog import BasePredictor, Input, Path
 
-MODEL_ID = "stabilityai/stable-diffusion-2"
+MODEL_ID = "MirageML/fantasy-scene"
 MODEL_CACHE = "diffusers-cache"
 
 
